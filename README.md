@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Nathaly!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+### A data scientist passionate about leveraging advanced analytics, machine learning, and statistical techniques to extract actionable insights, solve complex problems, and drive innovation through data-driven strategies.
 
 <br>
 
@@ -27,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mongodb,tensorflow" />
 </p>
 
 <hr>
